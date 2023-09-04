@@ -29,7 +29,7 @@ You may study `testCaclulate1` as a sample. This test case should make a connect
 
 What benefit do we have from having integration tests in our project?
 ```
-Your though here
+Learn your body mass index and see your risk of various diseases. Check your fat and obesity status.
 ```
 
 
